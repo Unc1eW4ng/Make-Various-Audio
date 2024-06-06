@@ -1,4 +1,5 @@
 # MVA:Make Various Audios
+**Only for course design in 2024 zju ux design course**
 
 first, you need to install the requirements by running the following command:
 ```bash
@@ -22,3 +23,4 @@ python run.py --caption 'electric guitar' --temperature 0.5
 ```
 
 The generated audio will be saved in the `results` folder.
+
