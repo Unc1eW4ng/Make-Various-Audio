@@ -12,7 +12,7 @@ Then you need to download the pre-trained model from the following link:(The dir
 https://github.com/Text-to-Audio/Make-An-Audio
 
 
-We use gpt-4 to generate different prompts , you need change the api key prompt/forchatgpt.py
+We use gpt-4 to generate different prompts , you need change the api key in prompt/forchatgpt.py
 
 ```python
 api_key = "
