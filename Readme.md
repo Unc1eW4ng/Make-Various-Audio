@@ -1,6 +1,7 @@
 # MVA:Make Various Audios
 **Only for course design in 2024 zju ux design course**
 
+## quick start
 first, you need to install the requirements by running the following command:
 ```bash
 pip install -r requirements.txt
